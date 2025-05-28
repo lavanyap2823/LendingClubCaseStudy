@@ -56,9 +56,5 @@ These adjustments aim to enhance risk management practices and improve the overa
 - Seaborn - version 0.13.2
 - Matplotlib - version 3.8.0
 
-## Acknowledgements
-- This Case Study is from UpGrad
-
-
 ## Contact
 Created by [@https://github.com/lavanyap2823] - feel free to contact me!
